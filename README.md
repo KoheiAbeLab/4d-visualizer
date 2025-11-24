@@ -54,7 +54,7 @@ BibTeX:
   title        = {4D Visualizer: Interactive 4D → 2D Oblique Projection Viewer},
   year         = {2025},
   publisher    = {GitHub},
-  howpublished = {https://github.com/KoheiAbeLab/4d-visualizer},
+  howpublished = {https://github.com/KoheiAbeLab/4d-visualizer
 }
 
 
