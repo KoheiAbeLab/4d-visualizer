@@ -48,14 +48,18 @@ Citation
 Kohei Abe, “4D Visualizer: Interactive 4D → 2D Oblique Projection Viewer”,
 GitHub repository, https://github.com/KoheiAbeLab/4d-visualizer
 
-BibTeX:
+### BibTeX
+
+```bibtex
 @misc{abe2025_4dvisualizer,
   author       = {Kohei Abe},
   title        = {4D Visualizer: Interactive 4D → 2D Oblique Projection Viewer},
   year         = {2025},
   publisher    = {GitHub},
-  howpublished = {https://github.com/KoheiAbeLab/4d-visualizer
+  howpublished = {\url{https://github.com/KoheiAbeLab/4d-visualizer}}
 }
+```
+
 
 
 License
