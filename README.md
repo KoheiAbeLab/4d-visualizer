@@ -20,10 +20,21 @@ Visualization of 3D slices (“boxes”) in 2D projection.
 Interactive controls using Matplotlib widgets.
 
 ## Requirements
-
 Python 3.8+
 Install dependencies:
 pip install numpy matplotlib
+
+## Installation
+You can install all dependencies using the provided requirements file:
+```bash
+pip install -r requirements.txt
+
+## Quick Start
+Clone the repository and run the viewer:
+```bash
+git clone https://github.com/KoheiAbeLab/4d-visualizer
+cd 4d-visualizer
+python 4d_visualizer.py
 
 ## Usage
 Run the viewer:
