@@ -7,7 +7,6 @@ This tool provides an intuitive way to understand 4D rotations and projections t
 
 <img width="1145" height="957" alt="image" src="https://github.com/user-attachments/assets/0fdf28ab-3af4-4f06-8f26-3962075ce9ab" />
 
-
 ## Features
 Projection of the four coordinate axes (x, y, z, w) into 2D.
 Adjustable projection angles (θx, θy, θz, θw).
@@ -28,6 +27,7 @@ pip install numpy matplotlib
 You can install all dependencies using the provided requirements file:
 ```bash
 pip install -r requirements.txt
+```
 
 ## Quick Start
 Clone the repository and run the viewer:
@@ -35,6 +35,7 @@ Clone the repository and run the viewer:
 git clone https://github.com/KoheiAbeLab/4d-visualizer
 cd 4d-visualizer
 python 4d_visualizer.py
+```
 
 ## Usage
 Run the viewer:
@@ -64,8 +65,6 @@ GitHub repository, https://github.com/KoheiAbeLab/4d-visualizer
   howpublished = {\url{https://github.com/KoheiAbeLab/4d-visualizer}}
 }
 ```
-
-
 
 ## License
 MIT License
