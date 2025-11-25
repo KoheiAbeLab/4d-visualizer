@@ -69,6 +69,10 @@ GitHub repository, https://github.com/KoheiAbeLab/4d-visualizer
 ## License
 MIT License
 
+## Download
+Stable releases can be downloaded from the GitHub Releases page:
+https://github.com/KoheiAbeLab/4d-visualizer/releases
+
 ## Contact
 Kohei Abe
 ORCID: https://orcid.org/0009-0001-1126-3282
