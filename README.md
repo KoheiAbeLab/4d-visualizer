@@ -73,6 +73,17 @@ MIT License
 Stable releases can be downloaded from the GitHub Releases page:
 https://github.com/KoheiAbeLab/4d-visualizer/releases
 
+### Known Issues
+- Matplotlib interaction may show noticeable latency depending on the environment  
+- GUI responsiveness (sliders, radio buttons) can vary across Python environments  
+- High-resolution displays may cause increased rendering load, resulting in slower interaction
+
+### Limitations
+- The 4D → 2D oblique projection necessarily loses geometric information  
+- Rendering speed is limited by Matplotlib and may not scale to complex objects  
+- This visualizer is intended for conceptual exploration, not numerical precision  
+
+
 ## Contact
 Kohei Abe
 ORCID: https://orcid.org/0009-0001-1126-3282
